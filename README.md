@@ -1,6 +1,6 @@
 # Mintlify Starter Kit
 
-Use the starter kit to get your docs deployed and ready to customize.
+Use the starter kit to get your docs deployed and ready to customize. Created this project for analysing the performance of the application. 
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
